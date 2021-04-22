@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+#passForm {
+	width: 400px;
+	margin: auto;
+	border: 1px solid orange;
+}
+
+ul {
+	list-style: none;
+}
+
+li { margin: 20px; }
+
+li#btn{
+	text-align: center;
+}
